@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonspitz&label=Profile%20views&color=b42f0e&style=flat" alt="brandonspitz" /> </p>
 
 <p>I am a self-taught, full-stack software engineer learning something new every day. The coding projects I decide to focus on are based in real world problems and
-applications that I see tech companies desire. I am available for hire and excited to demonstrate my skills. Please visit my LinkedIn page for a more detailed
+applications that I see tech companies desire. I am currently working in the United States Space Force military branch. Please visit my LinkedIn page for a more detailed
 view of my professional and educational experience. My Github publicly showcases my programming experience and knowledge.</p>
 
 <h3 align="center">Languages:</h3>
